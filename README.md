@@ -1,6 +1,6 @@
 # Customer Segmentation using Birch Clustering
 
-This repository provides a solution to the Customer Segmentation problem using the **Birch Clustering Algorithm** ([original reference](https://link.springer.com/article/10.1023/A:1009783824328), [simplified reference](https://medium.com/@noel.cs21/balanced-iterative-reducing-and-clustering-using-heirachies-birch-5680adffaa58). The project includes data preprocessing, clustering analysis, and evaluation of the segmentation results on a customer dataset. The Birch algorithm is particularly useful for large datasets with a natural hierarchical structure, making it suitable for customer segmentation tasks.
+This repository provides a solution to the Customer Segmentation problem using the **Birch Clustering Algorithm** ([original reference](https://link.springer.com/article/10.1023/A:1009783824328), [simplified reference](https://medium.com/@noel.cs21/balanced-iterative-reducing-and-clustering-using-heirachies-birch-5680adffaa58)). The project includes data preprocessing, clustering analysis, and evaluation of the segmentation results on a customer dataset. The Birch algorithm is particularly useful for large datasets with a natural hierarchical structure, making it suitable for customer segmentation tasks.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -141,4 +141,5 @@ Contributions are welcomed. If you would like to contribute to this project, ple
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-### Acknowledgments: This project was developed as a hands-on learning experience in clustering algorithms for customer segmentation.
+### Acknowledgments: 
+This project was developed as a hands-on learning experience in clustering algorithms for customer segmentation.
